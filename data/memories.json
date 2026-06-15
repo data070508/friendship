@@ -2,40 +2,16 @@
   "website": {
     "title": "Our Memory Book ❤️",
     "subtitle": "A journey of friendship, laughter and unforgettable moments",
-    "created": "2026-01-01",
-    "friends_since": "2020-06-15"
+   
   },
 
-  "friends": [
-    {
-      "id": 1,
-      "name": "Arun",
-      "nickname": "Rocket",
-      "photo": "assets/friends/arun.jpg",
-      "quote": "I will be there in 5 minutes 😂"
-    },
-    {
-      "id": 2,
-      "name": "Rahul",
-      "nickname": "Chef",
-      "photo": "assets/friends/rahul.jpg",
-      "quote": "Food is the solution for every problem 🍕"
-    },
-    {
-      "id": 3,
-      "name": "Karthik",
-      "nickname": "Silent Killer",
-      "photo": "assets/friends/karthik.jpg",
-      "quote": "I don't talk much, but I create the biggest memories 😎"
-    }
-  ],
 
   "memories": [
     {
       "id": 101,
-      "title": "First Day of College",
+      "title": "",
       "date": "2020-08-01",
-      "location": "Chennai",
+      "location": "School",
       "description": "The day we met and started our friendship journey.",
       "photos": [
         "assets/memories/college1.jpg",
@@ -51,44 +27,12 @@
       ]
     },
 
-    {
-      "id": 102,
-      "title": "Goa Trip",
-      "date": "2025-06-20",
-      "location": "Goa",
-      "description": "The craziest trip with beaches, jokes and unforgettable moments.",
-      "photos": [
-        "assets/memories/goa1.jpg",
-        "assets/memories/goa2.jpg",
-        "assets/memories/goa3.jpg"
-      ],
-      "videos": [
-        "assets/videos/goa.mp4"
-      ],
-      "tags": [
-        "travel",
-        "beach",
+   
         "adventure"
       ]
     },
 
-    {
-      "id": 103,
-      "title": "Birthday Celebration",
-      "date": "2024-12-18",
-      "location": "Home",
-      "description": "Cake fights, music and lots of laughter.",
-      "photos": [
-        "assets/memories/birthday1.jpg",
-        "assets/memories/birthday2.jpg"
-      ],
-      "videos": [
-        "assets/videos/birthday.mp4"
-      ],
-      "tags": [
-        "birthday",
-        "party",
-        "fun"
+   
       ]
     }
   ],
@@ -122,22 +66,7 @@
     }
   ],
 
-  "time_capsules": [
-    {
-      "id": 1,
-      "title": "Message to our future selves",
-      "unlock_date": "2030-01-01",
-      "message": "Are we still making the same old jokes and meeting every weekend?"
-    },
-
-    {
-      "id": 2,
-      "title": "Our 10 Years Friendship",
-      "unlock_date": "2035-06-15",
-      "message": "Congratulations! We have completed 10+ years of amazing friendship 🎉"
-    }
-  ],
-
+ 
   "settings": {
     "theme": "dark",
     "animations": true,
